@@ -3,3 +3,4 @@
 # Risein-SolidityBootcamp-Tasks
 
 ## Task 1 — Adding the description function
+https://github.com/xKachi/Rise-Bootcamp-Tasks/blob/main/Counter.sol
