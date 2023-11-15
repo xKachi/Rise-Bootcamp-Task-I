@@ -4,3 +4,6 @@
 
 ## Task 1 — Adding the description function
 https://github.com/xKachi/Rise-Bootcamp-Tasks/blob/main/Counter.sol
+
+## Task 2 — Add Proposal Title
+https://github.com/xKachi/Rise-Bootcamp-Tasks/blob/main/Proposal.sol
